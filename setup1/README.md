@@ -1,4 +1,4 @@
-# opencv_playground
+# opencv_playground setup 1
 
 dev setup including direnv, nix-shell, flake and poetry2nix files for easy configuration with Nix.
 
